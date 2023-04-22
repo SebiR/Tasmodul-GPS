@@ -1,7 +1,7 @@
 # Tasmodul GPS
 A module to get live GPS coordinates into MQTT with Tasmota or other home automation systems
 
-![GPS](./doc/tasmodul_gps_render.jpg)
+![GPS](./doc/tasmodul_gps.jpg)
 
 ## Features
 * SMA connector for external GPS antenna
